@@ -1,0 +1,48 @@
+weight: uniform, metric: euclidean
+best_k: 5, test accuracy: 0.9911
+
+weight: uniform, metric: manhattan
+best_k: 6, test accuracy: 0.9867
+
+weight: uniform, metric: chebyshev
+best_k: 5, test accuracy: 0.9844
+
+weight: uniform, metric: minkowskip: 3
+best_k: 5, test accuracy: 0.9933
+
+weight: uniform, metric: minkowskip: 4
+best_k: 5, test accuracy: 0.9933
+
+weight: uniform, metric: minkowskip: 5
+best_k: 7, test accuracy: 0.9933
+
+weight: uniform, metric: minkowskip: 6
+best_k: 6, test accuracy: 0.9911
+
+weight: uniform, metric: minkowskip: 7
+best_k: 6, test accuracy: 0.9911
+
+weight: distance, metric: euclidean
+best_k: 5, test accuracy: 0.9911
+
+weight: distance, metric: manhattan
+best_k: 17, test accuracy: 0.9733
+
+weight: distance, metric: chebyshev
+best_k: 5, test accuracy: 0.9822
+
+weight: distance, metric: minkowskip: 3
+best_k: 5, test accuracy: 0.9956
+
+weight: distance, metric: minkowskip: 4
+best_k: 6, test accuracy: 0.9956
+
+weight: distance, metric: minkowskip: 5
+best_k: 7, test accuracy: 0.9956
+
+weight: distance, metric: minkowskip: 6
+best_k: 5, test accuracy: 0.9956
+
+weight: distance, metric: minkowskip: 7
+best_k: 5, test accuracy: 0.9956
+
