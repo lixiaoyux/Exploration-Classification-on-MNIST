@@ -32,5 +32,5 @@ as for distance, we use different metrics, e.g.
 
 ### 5. CNN
 
-Before the task, we know that even if the simple and naive Convolution Neural Network can have a awesome performance on classification task.
+Before the task, we know that even if the simple and naive Convolution Neural Network can have an awesome performance on classification task.
 
