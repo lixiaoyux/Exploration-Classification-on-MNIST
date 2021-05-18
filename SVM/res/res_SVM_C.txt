@@ -1,0 +1,40 @@
+C-1
+test accuracy: 0.98056
+ validation accuracy: 0.98264
+
+C-2
+test accuracy: 0.98611
+ validation accuracy: 0.98958
+
+C-3
+test accuracy: 0.98611
+ validation accuracy: 0.98958
+
+C-4
+test accuracy: 0.98889
+ validation accuracy: 0.98958
+
+C-5
+test accuracy: 0.98889
+ validation accuracy: 0.98611
+
+C-6
+test accuracy: 0.98889
+ validation accuracy: 0.98611
+
+C-7
+test accuracy: 0.98889
+ validation accuracy: 0.98611
+
+C-8
+test accuracy: 0.98889
+ validation accuracy: 0.98611
+
+C-9
+test accuracy: 0.98889
+ validation accuracy: 0.98611
+
+C-10
+test accuracy: 0.98889
+ validation accuracy: 0.98611
+
