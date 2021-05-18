@@ -8,11 +8,14 @@ This includes several modules working on classification task on MNIST dataset. T
 
 
 
+
 ### 2. Decision Tree
 
 
 
+
 ### 3. Support Vector Machine
+
 
 
 
@@ -26,7 +29,8 @@ as for distance, we use different metrics, e.g.
 
 #### (3) Chebyshev
 
-#### (4) Cosine
+#### (4) Minkowski
+
 
 
 
